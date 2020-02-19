@@ -1,6 +1,6 @@
 # Django3_Ueditor
 Django3中使用Ueditor富文本编辑器
-
+![avatar](公众号.jpg)
 Ueditor目前不支持Django3 。
 如果在Django3中使用Ueditor需要使用本项目提供的Ueditor应用包。
 
